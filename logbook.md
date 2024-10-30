@@ -2,9 +2,11 @@
 
 30.10.2024 First lecture, 2h  
 
-- Went through the contents of the course, went through the new approach to teach about the topic.
-- The first assignment.
-- AWS course registeration.
+- Went through the contents of the course, about the new approach to teach about the topic. 
+- CNA course registeration.
+- The first assignments.
 - Use of artificial intelligence is a **must** for the course.
+- Adhere to assignment deadlines.
+- CNA Knowledge check done.
 - 
 
