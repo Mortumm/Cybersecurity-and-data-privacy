@@ -8,5 +8,9 @@
 - Use of artificial intelligence is a **must** for the course.
 - Adhere to assignment deadlines.
 - CNA Knowledge check done.
+
+3.11.2024 
+
+- Went through the provided material for module 1, quick peek at modele 2 contents.
 - 
 
