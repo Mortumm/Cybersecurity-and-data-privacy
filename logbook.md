@@ -9,7 +9,7 @@
 - Adhere to assignment deadlines.
 - CNA Knowledge check done.
 
-3.11.2024 
+3.11.2024 1,5h
 
 - Went through the provided material for module 1, quick peek at modele 2 contents.
 - 
